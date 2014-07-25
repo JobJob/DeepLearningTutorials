@@ -1,6 +1,8 @@
+.DS_Store
 code/*.pyc
 code/midi
 data/mnist.pkl.gz
+data/mnist/
 data/mnist_py3k.pkl.gz
 data/Nottingham.zip
 data/Nottingham
@@ -9,3 +11,6 @@ html
 *.pyc
 *~
 *.swp
+*.png
+*.avi
+code copy/
